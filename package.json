@@ -1,0 +1,13 @@
+{
+  "name": "MateriaizeCSS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tanviredu/MateriaizeCSS.git",
+  "author": "tanviredu <ornobtanvir.git@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "live-server": "^1.2.1",
+    "materialize-css": "^1.0.0"
+  }
+}
